@@ -1,6 +1,6 @@
 Hi, I am voice assistant.
 
-![image](https://user-images.githubusercontent.com/95283368/172913798-5d5d9345-759b-4252-aa14-466a445a18b5.png)
+![image](https://user-images.githubusercontent.com/95283368/172914005-2ed5cd07-f1e0-4647-89b1-2b038e3cb322.png)
 
 What you can do:
 
